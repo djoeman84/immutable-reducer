@@ -15,6 +15,9 @@
 npm install immutable-reducer --save
 ```
 
+## Examples
+- [TODO MVC - Immutable Reducer](https://github.com/djoeman84/immutable-reducer-example)
+
 ## Usage
 ##### appReducer.js
 ------
@@ -77,7 +80,6 @@ export const logout = () => ({
 ## Credits
 
 - [ImmutableJS](https://github.com/facebook/immutable-js) for underlying data structures
-- [Hexbridge](http://hexbridge.com) for sponsoring my open-source work.
 - [npm-starter](https://github.com/deiucanta/npm-starter)
 - [Airbnb](http://airbnb.com) for the work they've put into the javascript style guide and into the ESlint package.
 

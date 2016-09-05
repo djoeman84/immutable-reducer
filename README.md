@@ -7,7 +7,8 @@
 ---
 
 ## Dependencies
-- [ImmutableJS](https://github.com/facebook/immutable-js)
+- [ExtendableRecord](https://github.com/djoeman84/extendable-record)
+- (transitive) [ImmutableJS](https://github.com/facebook/immutable-js)
 
 ## Getting Started
 ```shell

@@ -1,4 +1,5 @@
 [![Version](https://img.shields.io/npm/v/immutable-reducer.svg)](https://www.npmjs.com/package/immutable-reducer)
+[![Build Status](https://travis-ci.org/djoeman84/immutable-reducer.svg?branch=master)](https://travis-ci.org/djoeman84/immutable-reducer)
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/djoeman84/immutable-reducer/blob/master/LICENSE)
 [![dependencies](https://david-dm.org/djoeman84/immutable-reducer.svg)](https://david-dm.org/djoeman84/immutable-reducer)
 [![devDependency Status](https://david-dm.org/djoeman84/immutable-reducer/dev-status.svg)](https://david-dm.org/djoeman84/immutable-reducer#info=devDependencies)

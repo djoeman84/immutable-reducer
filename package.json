@@ -1,6 +1,6 @@
 {
   "name": "immutable-reducer",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "license": "MIT",
   "description": "Immutable Reducers based off of ImmutableJS",
   "keywords": [

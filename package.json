@@ -1,6 +1,6 @@
 {
   "name": "immutable-reducer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "description": "Immutable Reducers based off of ImmutableJS",
   "keywords": [
@@ -23,7 +23,7 @@
     "lint:fix": "npm run lint -- --fix",
     "test": "mocha tests --compilers js:babel-register",
     "test:dev": "npm run test -- --watch",
-    "prepublish": "npm run clean & npm run build"
+    "prepublish": "npm install && npm run clean & npm run build"
   },
   "devDependencies": {
     "babel-cli": "^6.7.5",

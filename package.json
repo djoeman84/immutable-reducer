@@ -1,6 +1,6 @@
 {
   "name": "immutable-reducer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "Immutable Reducers based off of ImmutableJS",
   "keywords": [
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/djoeman84/immutable-reducer.git"
   },
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "clean": "rimraf dist",
     "build": "babel src -d dist",

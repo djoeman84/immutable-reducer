@@ -43,6 +43,6 @@
   },
   "dependencies": {
     "babel-runtime": "^6.6.1",
-    "extendable-record": "0.0.2"
+    "extendable-record": "1.0.0"
   }
 }

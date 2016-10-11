@@ -35,7 +35,7 @@
     "chai": "^3.5.0",
     "eslint": "^3.5.0",
     "eslint-config-airbnb": "^11.0.0",
-    "eslint-plugin-import": "^1.4.0",
+    "eslint-plugin-import": "^2.0.1",
     "mocha": "^3.0.2",
     "redux-caller": "^1.1.9",
     "rimraf": "^2.5.2",

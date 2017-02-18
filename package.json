@@ -38,7 +38,7 @@
     "eslint-plugin-import": "^1.4.0",
     "mocha": "^3.0.2",
     "redux-caller": "^1.1.9",
-    "rimraf": "^2.5.2",
+    "rimraf": "^2.6.0",
     "underscore": "^1.8.3"
   },
   "dependencies": {

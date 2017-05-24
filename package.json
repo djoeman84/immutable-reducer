@@ -36,7 +36,7 @@
     "eslint": "^3.5.0",
     "eslint-config-airbnb": "^11.0.0",
     "eslint-plugin-import": "^1.4.0",
-    "mocha": "^3.0.2",
+    "mocha": "^3.4.2",
     "redux-caller": "^1.1.9",
     "rimraf": "^2.5.2",
     "underscore": "^1.8.3"
